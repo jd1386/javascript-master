@@ -17,52 +17,52 @@
 
 ### jQuery
 * 학습 사이트
-  * Learn jQuery https://www.codecademy.com/learn/learn-jquery
-  * Intro to jQuery https://www.udacity.com/course/intro-to-jquery--ud245
-  * Javascript, jQuery, and JSON https://www.coursera.org/learn/javascript-jquery-json
+  * Learn jQuery [https://www.codecademy.com/learn/learn-jquery](https://www.codecademy.com/learn/learn-jquery)
+  * Intro to jQuery [https://www.udacity.com/course/intro-to-jquery--ud245](https://www.udacity.com/course/intro-to-jquery--ud245)
+  * Javascript, jQuery, and JSON [https://www.coursera.org/learn/javascript-jquery-json](https://www.coursera.org/learn/javascript-jquery-json)
 
 ### Node.js
 * 학습 사이트
-  * The Node.js Master Class https://pirple.thinkific.com/courses/the-nodejs-master-class
-  * Learn Node-SQLite https://www.codecademy.com/learn/learn-node-sqlite
+  * The Node.js Master Class [https://pirple.thinkific.com/courses/the-nodejs-master-class](https://pirple.thinkific.com/courses/the-nodejs-master-class)
+  * Learn Node-SQLite [https://www.codecademy.com/learn/learn-node-sqlite](https://www.codecademy.com/learn/learn-node-sqlite)
 
 ### Express
 * 학습 사이트
-  * Learn Express https://www.codecademy.com/learn/learn-express
-  * Build Web APIs from Scratch https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch
+  * Learn Express [https://www.codecademy.com/learn/learn-express](https://www.codecademy.com/learn/learn-express)
+  * Build Web APIs from Scratch [https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch](https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch)
 
 ### Ajax/Async
 * 학습 사이트
-  * Intro to AJAX https://www.udacity.com/course/intro-to-ajax--ud110
-  * Asynchronous JavaScript Requests https://www.udacity.com/course/asynchronous-javascript-requests--ud109
-  * Javascript Promises https://www.udacity.com/course/javascript-promises--ud898
+  * Intro to AJAX [https://www.udacity.com/course/intro-to-ajax--ud110](https://www.udacity.com/course/intro-to-ajax--ud110)
+  * Asynchronous JavaScript Requests [https://www.udacity.com/course/asynchronous-javascript-requests--ud109](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
+  * Javascript Promises [https://www.udacity.com/course/javascript-promises--ud898](https://www.udacity.com/course/javascript-promises--ud898)
 
 ### Backbone.js
 * Udacity
-  * Learn Backbone.js https://www.udacity.com/course/learn-backbonejs--ud990
+  * Learn Backbone.js [https://www.udacity.com/course/learn-backbonejs--ud990](https://www.udacity.com/course/learn-backbonejs--ud990)
 
 ### Angular.js
 * 학습 사이트
-  * Learn AngularJS 1.X https://www.codecademy.com/learn/learn-angularjs
-  * Single Page Web Applications with AngularJS https://www.coursera.org/learn/single-page-web-apps-with-angularjs
-  * Front-End Javascript Frameworks: Angular https://www.coursera.org/learn/angular
+  * Learn AngularJS 1.X [https://www.codecademy.com/learn/learn-angularjs](https://www.codecademy.com/learn/learn-angularjs)
+  * Single Page Web Applications with AngularJS [https://www.coursera.org/learn/single-page-web-apps-with-angularjs](https://www.coursera.org/learn/single-page-web-apps-with-angularjs)
+  * Front-End Javascript Frameworks: Angular [https://www.coursera.org/learn/angular](https://www.coursera.org/learn/angular)
 
 ### Vue.js
 * 학습 사이트
-  * Vue Mastery https://www.vuemastery.com/
-  * Vue School https://vueschool.io/
+  * Vue Mastery [https://www.vuemastery.com/](https://www.coursera.org/learn/angular)
+  * Vue School [https://vueschool.io/](https://vueschool.io/)
 
 ### React.js
 * 학습 사이트
-  * Learn ReactJS: Part 1 https://www.codecademy.com/learn/react-101
-  * Learn ReactJS: Part 2 https://www.codecademy.com/learn/react-102
-  * Build Front-End Apps from Scratch https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch
-  * Front-End Web Development with React https://www.coursera.org/learn/front-end-react
+  * Learn ReactJS: Part 1 [https://www.codecademy.com/learn/react-101](https://www.codecademy.com/learn/react-101)
+  * Learn ReactJS: Part 2 [https://www.codecademy.com/learn/react-102](https://www.codecademy.com/learn/react-102)
+  * Build Front-End Apps from Scratch [https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch](https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch)
+  * Front-End Web Development with React [https://www.coursera.org/learn/front-end-react](https://www.coursera.org/learn/front-end-react)
 
 ### MongoDB
 * 학습 사이트
-  * Web Application Development with JavaScript and MongoDB https://www.coursera.org/learn/web-application-development
+  * Web Application Development with JavaScript and MongoDB [https://www.coursera.org/learn/web-application-development](https://www.coursera.org/learn/web-application-development)
 
 ### Others
 * 학습 사이트
-  * Website Performance Optimization https://www.udacity.com/course/website-performance-optimization--ud884
+  * Website Performance Optimization [https://www.udacity.com/course/website-performance-optimization--ud884](https://www.udacity.com/course/website-performance-optimization--ud884)
