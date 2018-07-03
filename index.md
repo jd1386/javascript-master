@@ -6,21 +6,21 @@
 
 ### Javascript
 * 학습 사이트
-  * Learn Javascript https://www.codecademy.com/learn/learn-javascript
-  * Introduction to Javascript https://www.codecademy.com/learn/introduction-to-javascript
-  * Intro to Javascript https://www.udacity.com/course/intro-to-javascript--ud803
-  * Object-Oriented Javascript https://www.udacity.com/course/object-oriented-javascript--ud711
-  * Javascript and the DOM https://www.udacity.com/course/javascript-and-the-dom--ud117
-  * ES6 Javascript Improved https://www.udacity.com/course/es6-javascript-improved--ud356
-  * Javascript Testing https://www.udacity.com/course/javascript-testing--ud549
-  * Javascript Design Patterns https://www.udacity.com/course/javascript-design-patterns--ud989
+  * Learn Javascript [https://www.codecademy.com/learn/learn-javascript](https://www.codecademy.com/learn/learn-javascript)
+  * Introduction to Javascript [https://www.codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+  * Intro to Javascript [https://www.udacity.com/course/intro-to-javascript--ud803](https://www.udacity.com/course/intro-to-javascript--ud803)
+  * Object-Oriented Javascript [https://www.udacity.com/course/object-oriented-javascript--ud711](https://www.udacity.com/course/object-oriented-javascript--ud711)
+  * Javascript and the DOM [https://www.udacity.com/course/javascript-and-the-dom--ud117](https://www.udacity.com/course/javascript-and-the-dom--ud117)
+  * ES6 Javascript Improved [https://www.udacity.com/course/es6-javascript-improved--ud356](https://www.udacity.com/course/es6-javascript-improved--ud356)
+  * Javascript Testing [https://www.udacity.com/course/javascript-testing--ud549](https://www.udacity.com/course/javascript-testing--ud549)
+  * Javascript Design Patterns [https://www.udacity.com/course/javascript-design-patterns--ud989](https://www.udacity.com/course/javascript-design-patterns--ud989)
 
 ### jQuery
 * 학습 사이트
   * Learn jQuery https://www.codecademy.com/learn/learn-jquery
   * Intro to jQuery https://www.udacity.com/course/intro-to-jquery--ud245
   * Javascript, jQuery, and JSON https://www.coursera.org/learn/javascript-jquery-json
-  
+
 ### Node.js
 * 학습 사이트
   * The Node.js Master Class https://pirple.thinkific.com/courses/the-nodejs-master-class
@@ -36,7 +36,7 @@
   * Intro to AJAX https://www.udacity.com/course/intro-to-ajax--ud110
   * Asynchronous JavaScript Requests https://www.udacity.com/course/asynchronous-javascript-requests--ud109
   * Javascript Promises https://www.udacity.com/course/javascript-promises--ud898
-  
+
 ### Backbone.js
 * Udacity
   * Learn Backbone.js https://www.udacity.com/course/learn-backbonejs--ud990
@@ -64,5 +64,5 @@
   * Web Application Development with JavaScript and MongoDB https://www.coursera.org/learn/web-application-development
 
 ### Others
-* 학습 사이트 
+* 학습 사이트
   * Website Performance Optimization https://www.udacity.com/course/website-performance-optimization--ud884
