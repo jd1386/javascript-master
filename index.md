@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# 자바스크립트 마스터가 되기위한 각종 learning resources/materials
 
-You can use the [editor on GitHub](https://github.com/jd1386/javascript-master/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+자바스크립트와 자바스크립트 기반의 다양한 프레임워크 학습에 도움이 될만한 각종 튜토리얼, 학습 사이트, 영상 등 학습 정보를 이곳에 모아서 수시로 업데이트 할 예정입니다. 추가할 내용이 있다면 언제든지 풀리퀘스트 환영합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+아래 리스트의 순서는 중요도 및 난이도 등과 관련이 없습니다.
 
-### Markdown
+### Javascript
+* 학습 사이트
+  * Learn Javascript https://www.codecademy.com/learn/learn-javascript
+  * Introduction to Javascript https://www.codecademy.com/learn/introduction-to-javascript
+  * Intro to Javascript https://www.udacity.com/course/intro-to-javascript--ud803
+  * Object-Oriented Javascript https://www.udacity.com/course/object-oriented-javascript--ud711
+  * Javascript and the DOM https://www.udacity.com/course/javascript-and-the-dom--ud117
+  * ES6 Javascript Improved https://www.udacity.com/course/es6-javascript-improved--ud356
+  * Javascript Testing https://www.udacity.com/course/javascript-testing--ud549
+  * Javascript Design Patterns https://www.udacity.com/course/javascript-design-patterns--ud989
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### jQuery
+* 학습 사이트
+  * Learn jQuery https://www.codecademy.com/learn/learn-jquery
+  * Intro to jQuery https://www.udacity.com/course/intro-to-jquery--ud245
+  * Javascript, jQuery, and JSON https://www.coursera.org/learn/javascript-jquery-json
+  
+### Node.js
+* 학습 사이트
+  * The Node.js Master Class https://pirple.thinkific.com/courses/the-nodejs-master-class
+  * Learn Node-SQLite https://www.codecademy.com/learn/learn-node-sqlite
 
-```markdown
-Syntax highlighted code block
+### Express
+* 학습 사이트
+  * Learn Express https://www.codecademy.com/learn/learn-express
+  * Build Web APIs from Scratch https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch
 
-# Header 1
-## Header 2
-### Header 3
+### Ajax/Async
+* 학습 사이트
+  * Intro to AJAX https://www.udacity.com/course/intro-to-ajax--ud110
+  * Asynchronous JavaScript Requests https://www.udacity.com/course/asynchronous-javascript-requests--ud109
+  * Javascript Promises https://www.udacity.com/course/javascript-promises--ud898
+  
+### Backbone.js
+* Udacity
+  * Learn Backbone.js https://www.udacity.com/course/learn-backbonejs--ud990
 
-- Bulleted
-- List
+### Angular.js
+* 학습 사이트
+  * Learn AngularJS 1.X https://www.codecademy.com/learn/learn-angularjs
+  * Single Page Web Applications with AngularJS https://www.coursera.org/learn/single-page-web-apps-with-angularjs
+  * Front-End Javascript Frameworks: Angular https://www.coursera.org/learn/angular
 
-1. Numbered
-2. List
+### Vue.js
+* 학습 사이트
+  * Vue Mastery https://www.vuemastery.com/
+  * Vue School https://vueschool.io/
 
-**Bold** and _Italic_ and `Code` text
+### React.js
+* 학습 사이트
+  * Learn ReactJS: Part 1 https://www.codecademy.com/learn/react-101
+  * Learn ReactJS: Part 2 https://www.codecademy.com/learn/react-102
+  * Build Front-End Apps from Scratch https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch
+  * Front-End Web Development with React https://www.coursera.org/learn/front-end-react
 
-[Link](url) and ![Image](src)
-```
+### MongoDB
+* 학습 사이트
+  * Web Application Development with JavaScript and MongoDB https://www.coursera.org/learn/web-application-development
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jd1386/javascript-master/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Others
+* 학습 사이트 
+  * Website Performance Optimization https://www.udacity.com/course/website-performance-optimization--ud884
