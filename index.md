@@ -1,6 +1,6 @@
-# 자바스크립트 마스터가 되기위한 학습 자료
+# 자바스크립트 마스터가 되기 위한 학습 자료
 
-자바스크립트와 자바스크립트 기반의 다양한 프레임워크 학습에 도움이 될만한 각종 튜토리얼, 학습 사이트, 영상 등 학습 정보를 이곳에 모아서 수시로 업데이트 할 예정입니다. 추가할 내용이 있다면 언제든지 풀리퀘스트 환영합니다.
+자바스크립트와 자바스크립트 기반의 다양한 프레임워크 학습에 도움이 될만한 각종 튜토리얼, 학습 사이트, 영상 등 학습 정보를 이곳에 모아서 수시로 업데이트 중입니다. 추가할만한 내용이 있다면 언제든지 풀리퀘스트 환영합니다.
 
 아래 리스트의 순서는 중요도 및 난이도 등과 관련이 없습니다.
 
@@ -30,7 +30,9 @@
 * 학습 사이트
   * Learn Express [https://www.codecademy.com/learn/learn-express](https://www.codecademy.com/learn/learn-express)
   * Build Web APIs from Scratch [https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch](https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch)
-  * Build Advanced Blog Using Node.js [https://www.udemy.com/build-advanced-blog-using-nodejs/](https://www.udemy.com/build-advanced-blog-using-nodejs/)
+
+* 튜토리얼
+  * Node.js Express MongoDB Dev to Deployment [https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/)
 
 ### Ajax/Async
 * 학습 사이트
