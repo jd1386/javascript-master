@@ -14,6 +14,8 @@
   * ES6 Javascript Improved [https://www.udacity.com/course/es6-javascript-improved--ud356](https://www.udacity.com/course/es6-javascript-improved--ud356)
   * Javascript Testing [https://www.udacity.com/course/javascript-testing--ud549](https://www.udacity.com/course/javascript-testing--ud549)
   * Javascript Design Patterns [https://www.udacity.com/course/javascript-design-patterns--ud989](https://www.udacity.com/course/javascript-design-patterns--ud989)
+  * Modern Javascript [https://tylermcginnis.com/courses/modern-javascript/](https://tylermcginnis.com/courses/modern-javascript/)
+
 
 * 주제별 학습 자료
   * this, call, apply, bind
@@ -73,6 +75,8 @@
   * Learn ReactJS: Part 2 [https://www.codecademy.com/learn/react-102](https://www.codecademy.com/learn/react-102)
   * Build Front-End Apps from Scratch [https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch](https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch)
   * Front-End Web Development with React [https://www.coursera.org/learn/front-end-react](https://www.coursera.org/learn/front-end-react)
+  * React Fundamentals [https://tylermcginnis.com/courses/react-fundamentals-udacity/](https://tylermcginnis.com/courses/react-fundamentals-udacity/)
+  * React Native [https://tylermcginnis.com/courses/react-native-udacity/](https://tylermcginnis.com/courses/react-native-udacity/)
 
 
 ### MongoDB
