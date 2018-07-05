@@ -15,6 +15,7 @@
   * Javascript Testing [https://www.udacity.com/course/javascript-testing--ud549](https://www.udacity.com/course/javascript-testing--ud549)
   * Javascript Design Patterns [https://www.udacity.com/course/javascript-design-patterns--ud989](https://www.udacity.com/course/javascript-design-patterns--ud989)
   * Modern Javascript [https://tylermcginnis.com/courses/modern-javascript/](https://tylermcginnis.com/courses/modern-javascript/)
+  * Javascript.info [http://javascript.info/](http://javascript.info/)
 
 
 * 주제별 학습 자료
