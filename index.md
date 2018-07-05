@@ -15,6 +15,10 @@
   * Javascript Testing [https://www.udacity.com/course/javascript-testing--ud549](https://www.udacity.com/course/javascript-testing--ud549)
   * Javascript Design Patterns [https://www.udacity.com/course/javascript-design-patterns--ud989](https://www.udacity.com/course/javascript-design-patterns--ud989)
 
+* 주제별 학습 자료
+  * this, call, apply, bind
+    * [https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
+
 ### jQuery
 * 학습 사이트
   * Learn jQuery [https://www.codecademy.com/learn/learn-jquery](https://www.codecademy.com/learn/learn-jquery)
